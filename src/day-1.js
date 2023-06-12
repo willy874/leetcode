@@ -1,1 +1,0 @@
-function day_1() {}
